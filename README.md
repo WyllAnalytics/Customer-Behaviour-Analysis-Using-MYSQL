@@ -12,6 +12,7 @@ He plans on using these insights to help him decide whether he should expand the
 Danny has provided you with a sample of his overall customer data due to privacy issues  - but he hopes that these examples are enough for you to write fully functioning SQL queries to help him answer his questions!.
 
 Entity Relationship Diagram 
+![](rdbms.jpeg)
 
 
 Skills Applied
@@ -94,9 +95,13 @@ ORDER BY customer_id, order_date;
 ```
 
 Insights
-•	Customer B is the most Frequent visitor with 6 visits in jan 2021
+
+•	Customer B is the most Frequent visitor with 6 visits in jan 2021.
+
 •	Danny’s Diners most popular item is ramen, followed by curry and sushi.
+
 •	Customer A loves ramen , Customer C loves  only ramen whereas Customer B seems to enjoy  sushi, curry and ramen equally.
+
 •	The last item ordered by Customers A and B before they became members are sushi and curry. Does it mean both of these items are the deciding factor?
 
      
